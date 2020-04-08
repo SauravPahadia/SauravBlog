@@ -13,7 +13,7 @@ If our desires are predicated by our social graph, we learn to desire the same t
 
 In Antifragile, Taleb discusses how humans _"consider the biggest object of any kind that we have seen in our lives or hear about as the largest item that can possibly exist"_ - a phenomenon he calls _the Lucretius problem_.
 
-In a similar fashion, if students end up desiring the same career path as their social graph, they won't comprehend that any other career possibility can exist for them. In that way, we underestimate the "opportunity space" of the world. The # of opportunities outside our social graph is actually far greater than the opportunities inside our social graph.
+In a similar fashion, if students end up desiring the same career path as their social graph, they won't fully comprehend/pursue other career possibilities that could exist for them. In that way, we underestimate the "opportunity space" of the world. The # of opportunities outside our social graph is actually far greater than the opportunities inside our social graph.
 
 ---
 
