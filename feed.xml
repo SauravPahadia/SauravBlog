@@ -1,18 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://sauravpahadia.github.io/SauravBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sauravpahadia.github.io/SauravBlog/" rel="alternate" type="text/html" /><updated>2020-04-07T18:57:09-05:00</updated><id>https://sauravpahadia.github.io/SauravBlog/feed.xml</id><title type="html">Saurav’s Blog</title><subtitle>A home for my quick thoughts</subtitle><entry><title type="html">Notes on Mimetic Theory</title><link href="https://sauravpahadia.github.io/SauravBlog/2020/04/06/notes-on-mimetic-theory.html" rel="alternate" type="text/html" title="Notes on Mimetic Theory" /><published>2020-04-06T00:00:00-05:00</published><updated>2020-04-06T00:00:00-05:00</updated><id>https://sauravpahadia.github.io/SauravBlog/2020/04/06/notes-on-mimetic-theory</id><content type="html" xml:base="https://sauravpahadia.github.io/SauravBlog/2020/04/06/notes-on-mimetic-theory.html">&lt;p&gt;&lt;strong&gt;Mimetic Theory:&lt;/strong&gt; In a few words, people learn what to desire by watching what other people desire. Coined by French philosopher René Girard.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://sauravpahadia.github.io/SauravBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sauravpahadia.github.io/SauravBlog/" rel="alternate" type="text/html" /><updated>2020-04-07T19:02:20-05:00</updated><id>https://sauravpahadia.github.io/SauravBlog/feed.xml</id><title type="html">Saurav’s Blog</title><subtitle>A home for my quick thoughts</subtitle><entry><title type="html">Notes on Mimetic Theory</title><link href="https://sauravpahadia.github.io/SauravBlog/2020/04/06/notes-on-mimetic-theory.html" rel="alternate" type="text/html" title="Notes on Mimetic Theory" /><published>2020-04-06T00:00:00-05:00</published><updated>2020-04-06T00:00:00-05:00</updated><id>https://sauravpahadia.github.io/SauravBlog/2020/04/06/notes-on-mimetic-theory</id><content type="html" xml:base="https://sauravpahadia.github.io/SauravBlog/2020/04/06/notes-on-mimetic-theory.html">&lt;p&gt;&lt;strong&gt;Mimetic Theory:&lt;/strong&gt; In a few words, people learn what to desire by watching what other people desire. Coined by French philosopher René Girard.&lt;/p&gt;
 
-&lt;h1 id=&quot;my-most-impactful-insights-from-mimetic-theory&quot;&gt;My Most Impactful Insights from Mimetic Theory&lt;/h1&gt;
+&lt;h3 id=&quot;my-key-insights-from-mimetic-theory&quot;&gt;My Key Insights from Mimetic Theory&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;If our desires are predicated by our social graph, we learn to desire the same types of careers that our peers desire (this is why you’ll see most CS students pursue FAANG jobs, most business students pursue Big 4 jobs, etc.). In Antifragile, Taleb discusses how humans &lt;em&gt;“consider the biggest object of any kind that we have seen in our lives or hear about as the largest item that can possibly exist”&lt;/em&gt; - a phenomenon he calls &lt;em&gt;the Lucretius problem&lt;/em&gt;. In a similar fashion, if students end up desiring the same career path as their social graph, they won’t comprehend that any other career possibility can exist for them. In that way, we underestimate the “opportunity space” of the world. The # of opportunities outside our social graph is actually far greater than the opportunities inside our social graph.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The reason why a person will desire the objects a particular peer set desires is because that person wants entry into the peer set. When I was in elementary school, I demanded my parents to buy me Silly Bands - rubber bands shaped like objects - simply because the popular kids were the kids who wore the most Silly Bands. Advertisers understand this part of mimetic theory well - you’re not trying to convince somebody that they want a Modelo, you’re telling them that if they want to be a patriot, an American, the way to gain entry is by &lt;a href=&quot;https://www.youtube.com/watch?v=A3ZETlgKI3A&quot;&gt;purchasing a Modelo&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;“One of the tragic elements of mimetic desire is that it induces self-deception: lying to yourself in order to reshape your perceptions, your experience and your identity to be consistent with who you &lt;em&gt;feel&lt;/em&gt; you ought to be, not who you actually are.” [2] How many kids have pursued becoming a lawyer, doctor, SWE, or some other prestigious field because that’s what their parents told them was a good job? Paul Graham covers this as well in his essay &lt;a href=&quot;http://www.paulgraham.com/love.html&quot;&gt;How To Do What You Love&lt;/a&gt;: &lt;em&gt;“Prestige is like a powerful magnet that warps even your beliefs about what you enjoy. It causes you to work not on what you like, but what you’d like to like.”&lt;/em&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;If our desires are predicated by our social graph, we learn to desire the same types of careers that our peers desire (this is why you’ll see most CS students pursue FAANG jobs, most business students pursue Big 4 jobs, etc).&lt;/p&gt;
+
+&lt;p&gt;In Antifragile, Taleb discusses how humans &lt;em&gt;“consider the biggest object of any kind that we have seen in our lives or hear about as the largest item that can possibly exist”&lt;/em&gt; - a phenomenon he calls &lt;em&gt;the Lucretius problem&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In a similar fashion, if students end up desiring the same career path as their social graph, they won’t comprehend that any other career possibility can exist for them. In that way, we underestimate the “opportunity space” of the world. The # of opportunities outside our social graph is actually far greater than the opportunities inside our social graph.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The reason why a person will desire the objects a particular peer set desires is because that person wants entry into the peer set. When I was in elementary school, I demanded my parents to buy me Silly Bands - rubber bands shaped like objects - simply because the popular kids were the kids who wore the most Silly Bands. Advertisers understand this part of mimetic theory well - you’re not trying to convince somebody that they want a Modelo, you’re telling them that if they want to be a patriot, an American, the way to gain entry is by &lt;a href=&quot;https://www.youtube.com/watch?v=A3ZETlgKI3A&quot;&gt;purchasing a Modelo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;“One of the tragic elements of mimetic desire is that it induces self-deception: lying to yourself in order to reshape your perceptions, your experience and your identity to be consistent with who you &lt;em&gt;feel&lt;/em&gt; you ought to be, not who you actually are.” [2] How many kids have pursued becoming a lawyer, doctor, SWE, or some other prestigious field because that’s what their parents told them was a good job? Paul Graham covers this as well in his essay &lt;a href=&quot;http://www.paulgraham.com/love.html&quot;&gt;How To Do What You Love&lt;/a&gt;: &lt;em&gt;“Prestige is like a powerful magnet that warps even your beliefs about what you enjoy. It causes you to work not on what you like, but what you’d like to like.”&lt;/em&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;amazing-sources-to-learn-more-about-girard--mimetic-theory&quot;&gt;Amazing Sources to Learn More About Girard + Mimetic Theory&lt;/h1&gt;
 
@@ -22,69 +24,4 @@
 
 &lt;p&gt;3 - &lt;a href=&quot;https://medium.com/@bi.johnathan/book-analysis-things-hidden-since-the-foundations-of-the-world-8e66dc71c0b7&quot;&gt;80-page summary on one of Girard’s best books&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;4 - &lt;a href=&quot;https://www.perell.com/blog/peter-thiel&quot;&gt;Girard’s Influence Over Thiel&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Mimetic Theory: In a few words, people learn what to desire by watching what other people desire. Coined by French philosopher René Girard.</summary></entry><entry><title type="html">Notes on Mimetic Theory</title><link href="https://sauravpahadia.github.io/SauravBlog/2020/04/06/test-markdown-post.html" rel="alternate" type="text/html" title="Notes on Mimetic Theory" /><published>2020-04-06T00:00:00-05:00</published><updated>2020-04-06T00:00:00-05:00</updated><id>https://sauravpahadia.github.io/SauravBlog/2020/04/06/test-markdown-post</id><content type="html" xml:base="https://sauravpahadia.github.io/SauravBlog/2020/04/06/test-markdown-post.html">&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/ThePortal/comments/cfmtq2/peter_thiel_during_the_portal_about_the_book/euiv3op/?utm_source=share&amp;amp;utm_medium=web2x&quot;&gt;Amazing Reddit Post on Girard&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;If our desires are predicated on our neighbor, we underestimate the “opportunity space” of the world. The # of opportunities outside our social graph is far greater than the opportunities inside our social graph.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Similarly, since we mostly only see our immediate “opportunity space” as dictated by our social graph, we tend to believe that it is larger than it actually is, relative to total “opportunity space”.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Since most of the opportunities exist outside what we immediately see, they are naturally undervalued by our social graph. On the other hand, most of the opportunities we can see are therefore overvalued by our social graph.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;…. To Be Continued&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://alexdanco.com/2019/04/28/secrets-about-people-a-short-and-dangerous-introduction-to-rene-girard/&quot;&gt;Secrets About People - A Short and Dangerous Introduction to Rene Girard&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;We watch and learn by copying others, and the most important thing we learn from others is desire.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The reason why we mimic the desires of other people is because we want to by LIKE those people. We desire to be like them, so we do like them - monkey see, monkey do. This phenomenon is called mimetic desire - we don’t want, we want to be.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Advertisers understand this well - you’re not trying to convince somebody that they want Bud Light or a Ford F150, you’re telling them that if they want to be in a particular social graph, the way to gain entry is by purchasing a Bud Light or Ford F150&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Girard calls the people we mimic the “mediator” or “model” for our desire.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;One of the tragic elements of mimetic desire is that it induces self-deception: lying to yourself in order to reshape your perceptions, your experience and your identity to be consistent with who you &lt;em&gt;feel&lt;/em&gt; you ought to be, not who you actually are.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When you put yourself to the side and mimic the desires of a group to be a part of that group, you’re going to feel shame because you are not truly a part of that group.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;To rediscover your past impressions is a kind of a humility - it’s accepting that you may not actually be like your role models. OTOH, it frees you to perceive things as they actually are, and enjoy them as your genuine self.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Realistic human conflict involves the relationship between the Hero and the Model, with transient Objects that bubble up as desire to achieve the Model. This kind of conflict manifests itself as the pursuit of status.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;In mimetic terms, status just means being, pure and simple. It can sometimes mean equivalency and inclusion (for someone who’s on the outside trying to get in), or it could mean non-equivalency and exclusion (for someone who’s on the inside and trying to level up to a higher social group and leave behind the rest)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Status, like with many things, is ultimately zero-sum in nature. Models and their admirers eventually and inevitably become rivals - mutual desire will turn them into competitors&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;There are two ways that a person might handle this conflict, the first way is to direct the conflict outward - to actively pursue those objects or experiences that will turn you into the kind of person you wanna to be - your frustration will be directed towards your rival and they will become your enemy. You’ll be motivated by a feeling along the lines of “the reason why I’m not X person or have X is their afult”. The second, more narc way is to direct the conflict inwards, and blame yourself for not being the kind of person you aspire to be&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;🔑 &lt;strong&gt;The amount of distance between the subject and the model matters a great deal&lt;/strong&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;When our role model is far away, we continually praise them and draw comparisons between ourselves and them whenever possible. But when our model is close - if they’re our peer, coworker, etc. - we desparetly HIDE the fact that they are the model for our admiration and jealousy. As our mimicry intensifies, we progressively go to greater lengths to disguise our feelings, and start slandering them, sabotaging them, etc.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A relationship between subject and model that is differentiated, in terms of rank or distance or some other real factor, will be safe. A relationship that is undifferentiated, because the subject and models are peers, is dangerous. Girardiann mindset says “Lasting peace and harmony inherently requires differentiations. A stable society is a differentiated one”. Again, this is because people fight because they want the same things, not different.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Well aligned groups can accomplish more together than they could on their own. However, there is the danger for mimetic violence.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Amazing Reddit Post on Girard</summary></entry></feed>
+&lt;p&gt;4 - &lt;a href=&quot;https://www.perell.com/blog/peter-thiel&quot;&gt;Girard’s Influence Over Thiel&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Mimetic Theory: In a few words, people learn what to desire by watching what other people desire. Coined by French philosopher René Girard.</summary></entry></feed>
